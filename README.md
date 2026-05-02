@@ -17,7 +17,7 @@ This project analyzes NYC taxi trip data using big data tools such as Hadoop and
 
 ## Data Sources
 - NYC Taxi Data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-- Weather Data: (add your teammate’s source here)
+- Weather Data: 
 
 ## Project Features
 - Data cleaning and preprocessing using PySpark
