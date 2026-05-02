@@ -10,10 +10,16 @@ This project analyzes NYC taxi trip data using big data tools such as Hadoop and
 - Evaluate the impact of weather on traffic conditions
 
 ## Tools & Technologies
+
+### Core Technologies
 - PySpark
 - Hadoop (HDFS)
-- Google Colab
 - Python (Pandas, Matplotlib, Seaborn)
+
+### Development & Collaboration Tools
+- Google Colab
+- VS Code
+- GitHub
 
 ## Data Sources
 - NYC Taxi Data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
