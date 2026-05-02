@@ -26,7 +26,8 @@ This project analyzes NYC taxi trip data using big data tools such as Hadoop and
 - Weather Data: 
 
 ## Project Features
-- Data cleaning and preprocessing using PySpark
+- Data ingestion and storage using Hadoop (HDFS)
+- Data cleaning and preprocessing (VS Code + PySpark)
 - Feature engineering (trip duration, speed, time-based features)
 - Random Forest model for congestion prediction
 - Integration of weather data
